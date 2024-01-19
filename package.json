@@ -3,9 +3,16 @@
   "version": "1.0.0",
   "description": "[![Actions Status](https://github.com/essaySOS/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/essaySOS/frontend-project-44/actions)",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bin": {
+    "brain-games": "bin/brain-games.js"
   },
-  "author": "",
-  "license": "ISC"
+  "scripts": {
+    "test": "test"
+  },
+  "author": "V",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
