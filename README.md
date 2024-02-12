@@ -40,13 +40,23 @@ Type the name of the game and press Enter!
 > **brain-progression** - the player is shown a series of numbers forming an arithmetic progression in which one of the numbers is replaced by two points. The player must determine this number;
 
 > **brain-prime** - user is shown a random number. And he needs to answer **yes** if the number is prime, or **no** if not.
+
 Asciinema for running brain-even game: 
+ 
  https://asciinema.org/a/NlzlymhenOYVHBgMY3gK8qesx
+
 Asciinema for running brain-calc game:
+
  https://asciinema.org/a/3N7PnrT6UwQRcab2nE58xwvzW
+
 Asciinema for running brain-gcd game:
+
  https://asciinema.org/a/1DeFKCNb4pJm9KhL2dgIRIlNs
+ 
  Asciinema or running brain-progression game:
+
  https://asciinema.org/a/xGu8vZvKFWDztlXqQyxFHYm6c
+ 
  Asciinema or running brain-prime game:
+ 
   https://asciinema.org/a/yhQVv8DG9tIcNlkyQaC3uxPIr
