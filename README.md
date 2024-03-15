@@ -46,7 +46,7 @@ Type the name of the game and press Enter!
 
 Asciinema for running brain-even game: 
  
- https://asciinema.org/a/NlzlymhenOYVHBgMY3gK8qesx
+ "https://asciinema.org/a/NlzlymhenOYVHBgMY3gK8qesx"
 
 Asciinema for running brain-calc game:
 
