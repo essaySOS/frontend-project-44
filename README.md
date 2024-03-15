@@ -41,6 +41,9 @@ Type the name of the game and press Enter!
 
 > **brain-prime** - user is shown a random number. And he needs to answer **yes** if the number is prime, or **no** if not.
 
+### Hexlet tests and linter status:
+<a href="https://codeclimate.com/github/essaySOS/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/1e75e1e6695dcfe06dfd/maintainability" /></a>
+
 Asciinema for running brain-even game: 
  
  https://asciinema.org/a/NlzlymhenOYVHBgMY3gK8qesx
