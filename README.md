@@ -46,20 +46,20 @@ Type the name of the game and press Enter!
 
 Asciinema for running brain-even game: 
  
- "https://asciinema.org/a/NlzlymhenOYVHBgMY3gK8qesx"
+ [![asciicast](https://asciinema.org/a/cz7AXWIP0cUliMrvEzxwt50KJ.svg)](https://asciinema.org/a/cz7AXWIP0cUliMrvEzxwt50KJ)
 
 Asciinema for running brain-calc game:
 
- https://asciinema.org/a/3N7PnrT6UwQRcab2nE58xwvzW
+ [![asciicast](https://asciinema.org/a/u4D9fwrEOpJHxVFI1AKVbs8if.svg)](https://asciinema.org/a/u4D9fwrEOpJHxVFI1AKVbs8if)
 
 Asciinema for running brain-gcd game:
 
- https://asciinema.org/a/1DeFKCNb4pJm9KhL2dgIRIlNs
+ [![asciicast](https://asciinema.org/a/gJwTZF9QCJA1IVcj8ziDMhhjK.svg)](https://asciinema.org/a/gJwTZF9QCJA1IVcj8ziDMhhjK)
  
  Asciinema or running brain-progression game:
 
- https://asciinema.org/a/xGu8vZvKFWDztlXqQyxFHYm6c
+ [![asciicast](https://asciinema.org/a/7GyCx7p5ekVOvHc9p8JC7Fyrk.svg)](https://asciinema.org/a/7GyCx7p5ekVOvHc9p8JC7Fyrk)
  
  Asciinema or running brain-prime game:
  
-  https://asciinema.org/a/yhQVv8DG9tIcNlkyQaC3uxPIr
+ [![asciicast](https://asciinema.org/a/9zHvD7b5SWuDIdEiFZHmfjYAt.svg)](https://asciinema.org/a/9zHvD7b5SWuDIdEiFZHmfjYAt)
