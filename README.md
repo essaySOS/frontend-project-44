@@ -25,6 +25,10 @@ make publish
 npm link
 ```
 
+Asciinema for How to install games:
+
+[![asciicast](https://asciinema.org/a/SEwS4g3WmECtq8SF09jo99hZ6.svg)](https://asciinema.org/a/SEwS4g3WmECtq8SF09jo99hZ6)
+
 ### Now you can play
 
 Type the name of the game and press Enter!
